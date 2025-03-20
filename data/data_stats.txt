@@ -1,0 +1,8 @@
+数据统计信息:
+total_flights: 10683
+unique_airlines: 12
+unique_routes: 6
+avg_price: 9087.06
+avg_duration: 643.09
+unique_sources: 5
+unique_destinations: 6
